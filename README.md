@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Luci-morning
+- 👋 Hi, I’m @roshankumar
 - 👀 I’m interested in learning computer languages
-- 🌱 I’m currently learning hyml, css and java script
+- 🌱 I’m currently learning html, css and java script
 - 📫 How to reach me : you can mail me on ("aminasaw43@gmail.com") 
-- 😄 Pronouns: brownie,luci and roshan
+- 😄 Pronouns: brownie and roshan
 - ⚡ Fun fact: I am a friendly person. I believe in making friends. 
 
 <!---
